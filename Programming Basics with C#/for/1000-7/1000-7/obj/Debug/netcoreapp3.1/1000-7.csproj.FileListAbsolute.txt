@@ -1,0 +1,13 @@
+D:\Programing\SoftUni\1000-7\1000-7\bin\Debug\netcoreapp3.1\1000-7.exe
+D:\Programing\SoftUni\1000-7\1000-7\bin\Debug\netcoreapp3.1\1000-7.deps.json
+D:\Programing\SoftUni\1000-7\1000-7\bin\Debug\netcoreapp3.1\1000-7.runtimeconfig.json
+D:\Programing\SoftUni\1000-7\1000-7\bin\Debug\netcoreapp3.1\1000-7.runtimeconfig.dev.json
+D:\Programing\SoftUni\1000-7\1000-7\bin\Debug\netcoreapp3.1\1000-7.dll
+D:\Programing\SoftUni\1000-7\1000-7\bin\Debug\netcoreapp3.1\1000-7.pdb
+D:\Programing\SoftUni\1000-7\1000-7\obj\Debug\netcoreapp3.1\1000-7.csprojAssemblyReference.cache
+D:\Programing\SoftUni\1000-7\1000-7\obj\Debug\netcoreapp3.1\1000-7.AssemblyInfoInputs.cache
+D:\Programing\SoftUni\1000-7\1000-7\obj\Debug\netcoreapp3.1\1000-7.AssemblyInfo.cs
+D:\Programing\SoftUni\1000-7\1000-7\obj\Debug\netcoreapp3.1\1000-7.csproj.CoreCompileInputs.cache
+D:\Programing\SoftUni\1000-7\1000-7\obj\Debug\netcoreapp3.1\1000-7.dll
+D:\Programing\SoftUni\1000-7\1000-7\obj\Debug\netcoreapp3.1\1000-7.pdb
+D:\Programing\SoftUni\1000-7\1000-7\obj\Debug\netcoreapp3.1\1000-7.genruntimeconfig.cache

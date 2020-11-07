@@ -1,0 +1,12 @@
+D:\Programing\SoftUni\if\ConditionalStatements\06.AreaOfFigures\bin\Debug\netcoreapp3.1\06.AreaOfFigures.exe
+D:\Programing\SoftUni\if\ConditionalStatements\06.AreaOfFigures\bin\Debug\netcoreapp3.1\06.AreaOfFigures.deps.json
+D:\Programing\SoftUni\if\ConditionalStatements\06.AreaOfFigures\bin\Debug\netcoreapp3.1\06.AreaOfFigures.runtimeconfig.json
+D:\Programing\SoftUni\if\ConditionalStatements\06.AreaOfFigures\bin\Debug\netcoreapp3.1\06.AreaOfFigures.runtimeconfig.dev.json
+D:\Programing\SoftUni\if\ConditionalStatements\06.AreaOfFigures\bin\Debug\netcoreapp3.1\06.AreaOfFigures.dll
+D:\Programing\SoftUni\if\ConditionalStatements\06.AreaOfFigures\bin\Debug\netcoreapp3.1\06.AreaOfFigures.pdb
+D:\Programing\SoftUni\if\ConditionalStatements\06.AreaOfFigures\obj\Debug\netcoreapp3.1\06.AreaOfFigures.AssemblyInfoInputs.cache
+D:\Programing\SoftUni\if\ConditionalStatements\06.AreaOfFigures\obj\Debug\netcoreapp3.1\06.AreaOfFigures.AssemblyInfo.cs
+D:\Programing\SoftUni\if\ConditionalStatements\06.AreaOfFigures\obj\Debug\netcoreapp3.1\06.AreaOfFigures.csproj.CoreCompileInputs.cache
+D:\Programing\SoftUni\if\ConditionalStatements\06.AreaOfFigures\obj\Debug\netcoreapp3.1\06.AreaOfFigures.dll
+D:\Programing\SoftUni\if\ConditionalStatements\06.AreaOfFigures\obj\Debug\netcoreapp3.1\06.AreaOfFigures.pdb
+D:\Programing\SoftUni\if\ConditionalStatements\06.AreaOfFigures\obj\Debug\netcoreapp3.1\06.AreaOfFigures.genruntimeconfig.cache

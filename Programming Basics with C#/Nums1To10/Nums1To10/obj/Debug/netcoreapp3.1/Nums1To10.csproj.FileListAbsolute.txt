@@ -1,0 +1,12 @@
+D:\Programing\SoftUni\Nums1To10\Nums1To10\bin\Debug\netcoreapp3.1\Nums1To10.exe
+D:\Programing\SoftUni\Nums1To10\Nums1To10\bin\Debug\netcoreapp3.1\Nums1To10.deps.json
+D:\Programing\SoftUni\Nums1To10\Nums1To10\bin\Debug\netcoreapp3.1\Nums1To10.runtimeconfig.json
+D:\Programing\SoftUni\Nums1To10\Nums1To10\bin\Debug\netcoreapp3.1\Nums1To10.runtimeconfig.dev.json
+D:\Programing\SoftUni\Nums1To10\Nums1To10\bin\Debug\netcoreapp3.1\Nums1To10.dll
+D:\Programing\SoftUni\Nums1To10\Nums1To10\bin\Debug\netcoreapp3.1\Nums1To10.pdb
+D:\Programing\SoftUni\Nums1To10\Nums1To10\obj\Debug\netcoreapp3.1\Nums1To10.AssemblyInfoInputs.cache
+D:\Programing\SoftUni\Nums1To10\Nums1To10\obj\Debug\netcoreapp3.1\Nums1To10.AssemblyInfo.cs
+D:\Programing\SoftUni\Nums1To10\Nums1To10\obj\Debug\netcoreapp3.1\Nums1To10.csproj.CoreCompileInputs.cache
+D:\Programing\SoftUni\Nums1To10\Nums1To10\obj\Debug\netcoreapp3.1\Nums1To10.dll
+D:\Programing\SoftUni\Nums1To10\Nums1To10\obj\Debug\netcoreapp3.1\Nums1To10.pdb
+D:\Programing\SoftUni\Nums1To10\Nums1To10\obj\Debug\netcoreapp3.1\Nums1To10.genruntimeconfig.cache

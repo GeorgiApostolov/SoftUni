@@ -1,0 +1,13 @@
+D:\Programing\SoftUni\for\upperNumber\upperNumber\bin\Debug\netcoreapp3.1\upperNumber.exe
+D:\Programing\SoftUni\for\upperNumber\upperNumber\bin\Debug\netcoreapp3.1\upperNumber.deps.json
+D:\Programing\SoftUni\for\upperNumber\upperNumber\bin\Debug\netcoreapp3.1\upperNumber.runtimeconfig.json
+D:\Programing\SoftUni\for\upperNumber\upperNumber\bin\Debug\netcoreapp3.1\upperNumber.runtimeconfig.dev.json
+D:\Programing\SoftUni\for\upperNumber\upperNumber\bin\Debug\netcoreapp3.1\upperNumber.dll
+D:\Programing\SoftUni\for\upperNumber\upperNumber\bin\Debug\netcoreapp3.1\upperNumber.pdb
+D:\Programing\SoftUni\for\upperNumber\upperNumber\obj\Debug\netcoreapp3.1\upperNumber.csprojAssemblyReference.cache
+D:\Programing\SoftUni\for\upperNumber\upperNumber\obj\Debug\netcoreapp3.1\upperNumber.AssemblyInfoInputs.cache
+D:\Programing\SoftUni\for\upperNumber\upperNumber\obj\Debug\netcoreapp3.1\upperNumber.AssemblyInfo.cs
+D:\Programing\SoftUni\for\upperNumber\upperNumber\obj\Debug\netcoreapp3.1\upperNumber.csproj.CoreCompileInputs.cache
+D:\Programing\SoftUni\for\upperNumber\upperNumber\obj\Debug\netcoreapp3.1\upperNumber.dll
+D:\Programing\SoftUni\for\upperNumber\upperNumber\obj\Debug\netcoreapp3.1\upperNumber.pdb
+D:\Programing\SoftUni\for\upperNumber\upperNumber\obj\Debug\netcoreapp3.1\upperNumber.genruntimeconfig.cache

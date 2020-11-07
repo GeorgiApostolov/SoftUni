@@ -1,0 +1,12 @@
+D:\Programing\SoftUni\if\ConditionalStatements\03.OddOrEven\bin\Debug\netcoreapp3.1\03.OddOrEven.exe
+D:\Programing\SoftUni\if\ConditionalStatements\03.OddOrEven\bin\Debug\netcoreapp3.1\03.OddOrEven.deps.json
+D:\Programing\SoftUni\if\ConditionalStatements\03.OddOrEven\bin\Debug\netcoreapp3.1\03.OddOrEven.runtimeconfig.json
+D:\Programing\SoftUni\if\ConditionalStatements\03.OddOrEven\bin\Debug\netcoreapp3.1\03.OddOrEven.runtimeconfig.dev.json
+D:\Programing\SoftUni\if\ConditionalStatements\03.OddOrEven\bin\Debug\netcoreapp3.1\03.OddOrEven.dll
+D:\Programing\SoftUni\if\ConditionalStatements\03.OddOrEven\bin\Debug\netcoreapp3.1\03.OddOrEven.pdb
+D:\Programing\SoftUni\if\ConditionalStatements\03.OddOrEven\obj\Debug\netcoreapp3.1\03.OddOrEven.AssemblyInfoInputs.cache
+D:\Programing\SoftUni\if\ConditionalStatements\03.OddOrEven\obj\Debug\netcoreapp3.1\03.OddOrEven.AssemblyInfo.cs
+D:\Programing\SoftUni\if\ConditionalStatements\03.OddOrEven\obj\Debug\netcoreapp3.1\03.OddOrEven.csproj.CoreCompileInputs.cache
+D:\Programing\SoftUni\if\ConditionalStatements\03.OddOrEven\obj\Debug\netcoreapp3.1\03.OddOrEven.dll
+D:\Programing\SoftUni\if\ConditionalStatements\03.OddOrEven\obj\Debug\netcoreapp3.1\03.OddOrEven.pdb
+D:\Programing\SoftUni\if\ConditionalStatements\03.OddOrEven\obj\Debug\netcoreapp3.1\03.OddOrEven.genruntimeconfig.cache
